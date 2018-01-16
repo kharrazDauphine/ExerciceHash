@@ -5,7 +5,6 @@
 #define HASH_ERR_BAD_PARAMETER 1
 #define HASH_SUCCESS 0
 
-#define SHA3_256_VERSION_STR "1.0"
 
 #include <cstdint>
 #include <cstdlib>

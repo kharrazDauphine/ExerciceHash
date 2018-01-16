@@ -151,10 +151,15 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="version.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="sha3.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Licence.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="sha3.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

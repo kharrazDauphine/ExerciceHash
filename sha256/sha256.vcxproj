@@ -147,6 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="sha256.h" />
+    <ClInclude Include="version.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="sha256.cpp" />

@@ -3,7 +3,7 @@
 #define SHA256_H
 #include <string>
 
-#define NSHA256_VERSION_STR "1.O"
+
 
 class SHA256
 {

@@ -8,6 +8,7 @@
 */
 #include "sha3.h"
 #include "hash.h"
+#include "version.h"
 
 
 #include <cstdint>
